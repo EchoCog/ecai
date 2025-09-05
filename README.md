@@ -349,6 +349,7 @@ pnpm run dev
 ## **📚 Resources**
 
 - [**Contributing Guidelines**](https://github.com/liblaber/ai/blob/main/CONTRIBUTING.md) - How to contribute to the project
+- [**Technical Architecture**](docs/architecture/README.md) - Comprehensive system architecture documentation
 - [Security & Privacy](docs/security-and-privacy.md)
 - [Configuration](docs/configuration.md)
 - [Getting Started](docs/getting-started.md)
